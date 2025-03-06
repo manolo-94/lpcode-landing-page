@@ -1,5 +1,4 @@
 // src/components/Navbar.tsx
-import React from 'react';
 import '../styles/Nabvar.css';
 
 const Navbar = () => {

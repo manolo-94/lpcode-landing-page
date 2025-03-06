@@ -1,5 +1,4 @@
 // src/components/Section.tsx
-import React from 'react';
 import '../styles/Section.css';
 
 
